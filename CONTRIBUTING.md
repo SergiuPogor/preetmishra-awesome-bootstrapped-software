@@ -28,7 +28,7 @@ To be included in this list, software must:
 
 - Be built by bootstrapped founders (not VC-backed)
 - Prioritize usability and user experience
-- Offer fast, responsive customer support. (Don't have one? Try [Helploom](https://helploom.com) for free)
+- Offer fast, responsive customer support
 - Have sane, transparent pricing
 - Be actively maintained and reliable
 
